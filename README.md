@@ -4,8 +4,8 @@
 ---
 
 [**`Python`**](https://github.com/lxRbckl/lxRbckl/blob/main/Python/README.md)
-[`asyncio`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/asyncio.md)
-[`datetime`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/datetime.md)
-[`discord py`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/discord-py.md)
+[`asyncio`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/asyncio/README.md)
+[`datetime`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/datetime/README.md)
+[`discord py`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/discord-py/README.md)
 
 # 
