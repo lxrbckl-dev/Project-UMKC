@@ -1,5 +1,5 @@
-# Project UMKC 2
-> Get notified on Discord when your Zoom classes commence. V2. Fall 2021.
+# [Project UMKC 2](https://github.com/lxRbckl/Project-UMKC/wiki/V2)
+> Receive notifcations when classes are about to start. V2. Fall 2021.
 
 ---
 
